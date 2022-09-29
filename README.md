@@ -1,2 +1,4 @@
-# demot-two
-Example of GH repo starting on remote side with new branch name
+
+GH repo starting on remote side  with new branch name
+
+me file
